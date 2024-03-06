@@ -1,3 +1,7 @@
+# Standalone Project
+
+For creating the web api we cannot add the HttpClientInMemoryWebApiModule and InMemoryDataService in the app.component.ts we need to add it in the app.config.ts
+
 # Heroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
